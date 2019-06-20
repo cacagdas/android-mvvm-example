@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidMVVM</string>
+    <string name="error_text">An error occured while loading data.</string>
 </resources>
